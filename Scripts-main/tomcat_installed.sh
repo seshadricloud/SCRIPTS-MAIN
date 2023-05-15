@@ -12,7 +12,7 @@ rpm -ivh jdk-8u131-linux-x64.rpm
 #Change the directory to /opt
 cd /opt
 
-# Download the tomcat
+# Download the tomcat check the version
 wget https://mirror.lyrahosting.com/apache/tomcat/tomcat-9/v9.0.41/bin/apache-tomcat-9.0.41.zip
 
 #unzip the tomcat
